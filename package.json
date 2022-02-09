@@ -1,5 +1,5 @@
 {
-  "name": "css-declaration-sorter",
+  "name": "@pumpn/css-declaration-sorter",
   "version": "6.1.4",
   "description": "Sorts CSS declarations fast and automatically in a certain order.",
   "type": "module",
