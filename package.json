@@ -17,7 +17,7 @@
     "test": "uvu src .+\\.test\\.mjs",
     "test:ci": "npm test && npm run lint -- --max-warnings 0",
     "lint": "eslint src/*.mjs",
-    "scrape": "node src/property-scraper.mjs",
+    "scrape": "node src/property-scraper.mjs"
   },
   "devDependencies": {
     "@mdn/browser-compat-data": "^4.1.2",
